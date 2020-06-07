@@ -1,0 +1,6 @@
+The anchor nodes choosen is not correct. Choose node number 50 and anchor 5 shows all nodes are anchor.
+ToDo: Just choose the first anchor number of nodes as anchor nodes.
+
+JSON file not generated. 
+ToDo: generate the JSON file of anchor nodes.
+3/14/2019
